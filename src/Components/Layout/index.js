@@ -2,7 +2,7 @@ import './index.scss'
 import React from 'react'
 
 function Layout() {
-  return <>hello</>
+  return <>helloo</>
 }
 
 export default Layout
